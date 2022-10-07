@@ -1,0 +1,16 @@
+Basic XML unit:
+---------------
+<s>					#segment
+	<mw>				#multiword, e.g. common phrases and idioms
+		<w> word </w>
+		<c> , </c> 		#punctuation
+	</mw>
+</s>
+
+
+
+
+
+Copyright formality:
+--------------------
+"Data cited herein have been extracted from the British National Corpus, distributed by the University of Oxford on behalf of the BNC Consortium. All rights in the texts cited are reserved."
